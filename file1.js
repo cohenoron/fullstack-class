@@ -1,2 +1,2 @@
-console.log("hello world")
-HashChangeEvent
+console.log("hello israel")
+
